@@ -23,18 +23,18 @@ This project is a **Dynamic Portfolio + Blog Website** built with **Laravel 12**
 ---
 
 ## 📂 Project Structure
-app/
-├── Filament/Resources/ (admin resources for Blog & Portfolio)
-├── Http/Controllers/Frontend/ (frontend controllers)
-├── Http/Requests/ContactRequest.php (contact form validation)
-└── Models/ (Blog & Portfolio)
+- app/
+- ├── Filament/Resources/ (admin resources for Blog & Portfolio)
+- ├── Http/Controllers/Frontend/ (frontend controllers)
+- ├── Http/Requests/ContactRequest.php (contact form validation)
+- └── Models/ (Blog & Portfolio)
 
-resources/views/
-├── layouts/app.blade.php (main layout)
-├── home.blade.php
-├── portfolio/{index, show}.blade.php
-├── blog/{index, show}.blade.php
-└── contact/index.blade.php
+- resources/views/
+- ├── layouts/app.blade.php (main layout)
+- ├── home.blade.php
+- ├── portfolio/{index, show}.blade.php
+- ├── blog/{index, show}.blade.php
+- └── contact/index.blade.php
 
 ---
 
@@ -82,8 +82,8 @@ resources/views/
 ## 📨 Contact
 If you have any questions or need help, feel free to reach out:
 
-Email: msyukronm12@gmail.com
-Instagram: @immunizationn
+- Email: msyukronm12@gmail.com
+- Instagram: @immunizationn
 
 ---
 
